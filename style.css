@@ -1,0 +1,24 @@
+body {
+    font: 1.2em / 1.5 sans-serif;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+}
+.container { 
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.item {
+    background-color: #4d7298;
+    margin: 20px;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    font-size: 25px;
+    border: 2px solid #77a6b6;
+}
+
+
